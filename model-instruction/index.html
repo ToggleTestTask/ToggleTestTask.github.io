@@ -2,12 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-    <meta HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
-    <meta HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
     <link href="https://fonts.googleapis.com/css?family=Oswald|Roboto|Roboto+Mono|Lora|Lato" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <title>Graph</title>
+    <title>Model</title>
 </head>
 <body>
 <div class="container">
@@ -18,13 +15,9 @@
             </p>
         </div>
         <div class="col-md-10">
-            <iframe src="" frameborder="0" width="100%" height="1000px" id="theframe"></iframe>
+            <iframe src="./model.html" frameborder="0" width="100%" height="1000px" id="theframe"></iframe>
         </div>
     </div>
 </div>
-<script>
-    let _theframe = document.getElementById("theframe");
-    _theframe.src = "https://www.google.com/search?q=%http://littlesketch.es/experiments/loopsys?random=" + (new Date()).getTime() + Math.floor(Math.random() * 1000000);
-</script>
 </body>
 </html>
