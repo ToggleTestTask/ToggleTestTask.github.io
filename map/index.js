@@ -4,7 +4,7 @@ let map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v10',
     center: [ -100.5064 , 9.5479 ],
-    zoom: 5
+    zoom: 6
 });
 
 let hoveredStateId =  null;
