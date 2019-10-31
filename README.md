@@ -1,5 +1,6 @@
 # ToggleTestTask.github.io
 1. [Map with hover effect](https://toggletesttask.github.io/map)
+1. [Map with hover effect](https://toggletesttask.github.io/mapSVG)
 2. [Model + instruction](https://toggletesttask.github.io/model-instruction)
 
 
