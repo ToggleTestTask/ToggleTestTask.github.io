@@ -3,8 +3,8 @@ mapboxgl.accessToken = 'pk.eyJ1IjoibHVjaWEtYXZpbGEiLCJhIjoiY2pyd2wzbmwxMGR4MDRhc
 let map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v10',
-    center: [ -100.5064 , 9.5479 ],
-    zoom: 5
+    center: [ -90.6639 , 14.8083 ],
+    zoom: 4.5
 });
 
 let hoveredStateId =  null;
