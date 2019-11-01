@@ -19209,3 +19209,10 @@ figcaption span:before {
 .dark-bg {
     background-color: rgb(51, 53, 53);
 }
+
+.dark-bg .col-md-12 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
