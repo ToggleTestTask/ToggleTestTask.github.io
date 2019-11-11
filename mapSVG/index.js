@@ -1,6 +1,6 @@
 $(document).ready(function () {
     var links = {
-        'Gua' : 'http://www.internal-displacement.org/countries/guatemala ',
+        'Gua' : 'http://www.internal-displacement.org/countries/guatemala',
         'Hon' : 'http://www.internal-displacement.org/countries/honduras',
         'El' : 'http://www.internal-displacement.org/countries/el-salvador',
     };
