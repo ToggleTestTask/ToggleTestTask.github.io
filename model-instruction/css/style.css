@@ -84,7 +84,7 @@
 /* LABEL FORMATTING */
 	text.label {
 	  	fill: var(--color-foreground);
-	  	font-size: 10px;
+	  	font-size: 8px;
 	   	line-height: 1.1;
 	  	pointer-events: none;
 	}
